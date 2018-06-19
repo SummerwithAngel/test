@@ -1,0 +1,7 @@
+wrk.method = "POST"
+wrk.body   = "{\"app_id\": 25001, \"user\": 350283936, \"activity\": 250017, \"reward\": -1, \"secret_id\": \"\", \"timestamp\": 1528711810, \"nonce\": 1528711810, \"sign\": \"490e012d785747ec59b43cf3fd9513fd\"}"
+wrk.headers["Content-Type"] = "application/json"
+# wrk.headers["X-QP-Timestamp"] = "154345435"
+# wrk.headers["X-QP-Nonce"] = "1231234324"
+# wrk.headers["X-QP-AppId"] = "12345"
+# wrk.headers["X-QP-Signature"] = "4A5A517FFB54962AC5B08926772F1435"
